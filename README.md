@@ -24,8 +24,7 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 
 ## Required Tools
 
-- CH341A USB SPI Programmer (Black/Gold preferred)
-- SOIC8 Clip (for external BIOS access)
+- $10-$15 USD CH341A USB SPI Programmer (Black/Gold preferred) + SOIC8 Clip (for external BIOS access) Amazon afiliet link: http s://amzn.to/4j7jXC2 
 - Linux system (tested on Ubuntu/Kali)
 
 ---
@@ -65,6 +64,6 @@ Thanks to the incredible open-source BIOS modding community:
 This is for **educational use only**. You are responsible for your own hardware.  
 Lenovo® and ThinkPad® are trademarks of Lenovo.
 
-## 🚀 Stay Updated
+## Stay Updated
 
-Follow github.com/SoCalIT for more hardware unlock tools and BIOS utilities.
+Follow me at github.com/SoCalIT for more hardware unlock tools and BIOS utilities.
