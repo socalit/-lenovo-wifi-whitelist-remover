@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Lenovo WiFi Whitelist Remover" width="100%">
 </p>
----
+
 # Lenovo Wi-Fi Whitelist Remover
 ### For ThinkPad T440p, W540, and T540 only  
 Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compatibility.
