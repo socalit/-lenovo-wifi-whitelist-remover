@@ -15,16 +15,14 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 
 ## 📂 Folder: `/home/USER/thinkpad_flash/`
 
-After running the script, this folder contains:
+├── UEFIPatch               → UEFI patcher binary (v0.28.0)
+├── bios1.img               → Verified original BIOS dump
+├── bios_patched.img        → Patched + signed BIOS
+├── bios2.img               → Second dump for diff check (auto-deleted if match)
+├── xx40_patches_v5.txt     → Patch file: whitelist + advanced menu
+├── venv/                   → Python venv with pycryptodome
+└── thinkpad-uefi-sign/     → Signature tool repo
 
-/home/USER/thinkpad_flash/
-├── UEFIPatch → UEFI binary patcher
-├── bios1.img → Verified original BIOS dump
-├── bios_patched.img → Patched + signed BIOS
-├── bios2.img → Second dump (used for diff check)
-├── xx40_patches_v5.txt → Patch instructions
-├── venv/ → Python virtual environment
-└── thinkpad-uefi-sign/ → BIOS signature tools
 ---
 
 ## WARNING (Read This Carefully)
