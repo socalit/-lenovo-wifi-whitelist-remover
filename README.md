@@ -13,6 +13,20 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 
 ---
 
+## 📂 Folder: `/home/USER/thinkpad_flash/`
+
+After running the script, this folder contains:
+
+/home/USER/thinkpad_flash/
+├── UEFIPatch → UEFI binary patcher
+├── bios1.img → Verified original BIOS dump
+├── bios_patched.img → Patched + signed BIOS
+├── bios2.img → Second dump (used for diff check)
+├── xx40_patches_v5.txt → Patch instructions
+├── venv/ → Python virtual environment
+└── thinkpad-uefi-sign/ → BIOS signature tools
+---
+
 ## WARNING (Read This Carefully)
 
 > **This tool flashes your BIOS externally. A failed flash can brick your system if you do not follow instructions.**  
@@ -30,14 +44,14 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 
 ---
 
-# 1. Clone this repo
+## 1. Clone this repo
 git clone https://github.com/socalit/lenovo-wifi-whitelist-remover.git
 cd lenovo-wifi-whitelist-remover
 
-# 2. Make the script executable
+## 2. Make the script executable
 chmod +x remove_whitelist.sh
 
-# 3. Run the script
+## 3. Run the script
 ./remove_whitelist.sh
 
 ---
