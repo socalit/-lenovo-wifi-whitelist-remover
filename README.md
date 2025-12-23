@@ -43,15 +43,18 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 ---
 
 ## 1. Clone this repo
+```bash
 git clone https://github.com/socalit/lenovo-wifi-whitelist-remover.git
 cd lenovo-wifi-whitelist-remover
-
+```
 ## 2. Make the script executable
+```bash
 chmod +x remove_whitelist.sh
-
+```
 ## 3. Run the script
+```bash
 ./remove_whitelist.sh
-
+```
 ---
 
 ## Menu Options (Script Workflow)
