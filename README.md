@@ -7,8 +7,6 @@
 [![Linux](https://img.shields.io/badge/Linux-Supported-yellow?logo=linux)](https://www.kernel.org)
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
-
 # Lenovo Wi-Fi Whitelist Remover
 ### For ThinkPad T440p, W540, and T540 only  
 Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compatibility.
