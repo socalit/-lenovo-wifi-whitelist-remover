@@ -29,7 +29,7 @@ Remove Lenovo’s restrictive Wi-Fi whitelist and unlock full Wi-Fi card compati
 ```
 ---
 
-## WARNING (Read This Carefully)
+## ⚠️ WARNING (Read This Carefully)
 
 > **This tool flashes your BIOS externally. A failed flash can brick your system if you do not follow instructions.**  
 > - Only use this on **T440p**, **W540**, or **T540**
@@ -64,11 +64,11 @@ chmod +x remove_whitelist.sh
 ## Menu Options (Script Workflow)
 
 When you run the script, you'll see this menu:
-
+```
 1. Patch, Sign, and Flash BIOS (Whitelist Removed)
 2. Restore Original BIOS (bios1.img)
 3. Exit
-
+```
 
 ---
 
